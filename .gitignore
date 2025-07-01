@@ -1,0 +1,5 @@
+**/*.env
+
+# Opcional: Ignorar binarios y carpetas temporales
+/bin/
+/tmp/
